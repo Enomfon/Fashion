@@ -211,14 +211,16 @@ header{
 .spring-collection{
     /* display:flex; */
     background:#d9b1b3;
-    padding:80px;
+    padding:180px;
 }
 .slide{
-    margin:15px;
+    /* margin:15px; */
     width:100%;
+    /* height:450px; */
+    overflow: hidden;
 }
 .spring-slide{
-    margin :auto -15px;
+    /* margin :auto -15px; */
 }
 .spring-heading{
     display:flex;
